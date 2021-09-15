@@ -1197,10 +1197,10 @@
     "@types/qs" "*"
     "@types/serve-static" "*"
 
-"@types/flat@^5.0.0":
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/@types/flat/-/flat-5.0.0.tgz#de18742aea57ce3dd2c093c7d2ba8fd3a4135b53"
-  integrity sha512-GcgAp7RXXGmA61spVEKZYpIy3/iV6GHbTW9f9kaKwHVQgnWitt6X026e+3N6j8ep1bkIWj83qPHQ3Y9Ft8FqiQ==
+"@types/flat@^5.0.2":
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/@types/flat/-/flat-5.0.2.tgz#642a51a037d1f52fda082312b0e4566dc09a9f8f"
+  integrity sha512-3zsplnP2djeps5P9OyarTxwRpMLoe5Ash8aL9iprw0JxB+FAHjY+ifn4yZUuW4/9hqtnmor6uvjSRzJhiVbrEQ==
 
 "@types/fs-extra@^8.0.1":
   version "8.1.0"
