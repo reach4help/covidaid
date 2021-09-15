@@ -71,7 +71,7 @@
   },
   "devDependencies": {
     "@commitlint/cli": "^8.3.5",
-    "@commitlint/config-conventional": "^8.3.4",
+    "@commitlint/config-conventional": "^12.1.4",
     "@types/react-gtm-module": "^2.0.0",
     "@types/styled-components": "^5.0.1",
     "@typescript-eslint/eslint-plugin": "^2.24.0",
