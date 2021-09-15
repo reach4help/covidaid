@@ -30,7 +30,7 @@
     "gatsby-transformer-remark": "^2.8.12",
     "gatsby-transformer-sharp": "^2.5.3",
     "i18next": "^19.4.5",
-    "i18next-browser-languagedetector": "^4.2.0",
+    "i18next-browser-languagedetector": "^6.1.2",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-datamaps": "^0.4.1",
