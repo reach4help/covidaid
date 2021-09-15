@@ -36,7 +36,7 @@
     "@google-cloud/firestore": "^3.7.3",
     "@googlemaps/google-maps-services-js": "^2.4.2",
     "@types/convict": "^4.2.1",
-    "@types/flat": "^5.0.0",
+    "@types/flat": "^5.0.2",
     "@types/googlemaps": "^3.43.3",
     "@types/node-fetch": "^2.5.7",
     "algoliasearch": "^4.1.0",
