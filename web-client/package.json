@@ -110,7 +110,7 @@
     "eslint-plugin-react-hooks": "^2.5.1",
     "lint-staged": "^10.0.8",
     "miragejs": "^0.1.35",
-    "prettier": "^1.19.1",
+    "prettier": "^2.4.1",
     "prop-types": "^15.7.2",
     "redux-devtools-extension": "^2.13.8",
     "redux-logger": "^3.0.6"
