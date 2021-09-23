@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@google-cloud/firestore": "^3.7.3",
-    "@googlemaps/google-maps-services-js": "^2.4.2",
+    "@googlemaps/google-maps-services-js": "^3.2.2",
     "@types/convict": "^4.2.1",
     "@types/flat": "^5.0.0",
     "@types/googlemaps": "^3.43.3",
